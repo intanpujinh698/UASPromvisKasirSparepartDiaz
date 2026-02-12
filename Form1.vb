@@ -84,7 +84,7 @@ Public Class Form1
 
         TxtTotal.Text = totalAkhir
 
-
+        Label2.Text = Format(totalAkhir, "##,##0")
     End Sub
 
     Private Sub RadioButton1_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton1.CheckedChanged
