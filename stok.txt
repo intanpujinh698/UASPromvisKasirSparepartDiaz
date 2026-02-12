@@ -1,0 +1,9 @@
+Oli Mesin,50000
+Oli Gardan,30000
+Busi,20000
+Filter Udara,35000
+Kampas Rem Depan,40000
+kampas Rem Belakang,80000
+Rantai Motor,150000
+Aki Motor,300000
+Lampu Depan,60000
